@@ -1,0 +1,19 @@
+[{
+“initialisation” : {
+“level” : “1”,
+“life” : “100”,
+“time” : “60”
+},
+“monsters” : {
+“monster0” : “100”,
+“monster1” : “90”,
+“monster2” : “200”,
+“monster3” : “60”
+},
+“friendsname” : {
+“friend0” : “Mark”,
+“friend1” : “Justin”,
+“friend2” : “Robert”,
+“friend3” : “Brad”
+}
+}]
